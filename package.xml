@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
 <package>
-  <name>qdude</name>
+  <name>qt-scavenger</name>
   <version>0.1.0</version>
   <description>
 
      qdude
 
   </description>
-  <maintainer email="Benny Singer@gmail.com">Benny Singer</maintainer>
+  <maintainer email="BennySinger@gmail.com">Benny Singer</maintainer>
   <author>Benny Singer</author>
   <license>BSD</license>
   <!-- <url type="bugtracker">https://github.com/stonier/qt_ros/issues</url> -->
